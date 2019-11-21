@@ -17,7 +17,7 @@ The 6 spool configurations:\
 <img src="https://github.com/lschenc41/IntermediateCAD/blob/master/Media/Spool1.PNG" alt="Spool1" width="175" height="250"> <img src="https://github.com/lschenc41/IntermediateCAD/blob/master/Media/Spool2.PNG" alt="Spool2" width="200" height="250"> <img src="https://github.com/lschenc41/IntermediateCAD/blob/master/Media/Spool3.PNG" alt="Spool3" width="200" height="250">\
 <img src="https://github.com/lschenc41/IntermediateCAD/blob/master/Media/Spool4.PNG" alt="Spool4" width="200" height="250"> <img src="https://github.com/lschenc41/IntermediateCAD/blob/master/Media/Spool5.PNG" alt="Spool5" width="200" height="250"> <img src="https://github.com/lschenc41/IntermediateCAD/blob/master/Media/Spool6.PNG" alt="Spool6" width="225" height="250">
 ### Obstacles
-
+While the construction of the spool was relatively simple for me, I ran into some difficulty when making the configurations. I was able to create the design table, but after inputting all of the values it didn't work. Thankfully, it didn't take long for me to realize that the sizes were supposed to on the left side of the table rather than the top, which I had done initially.
 ## Advanced and Mechanical Mates
 ### Objective
 ### Visuals
@@ -26,3 +26,4 @@ Pin & slot configurations:\
 Telescope assembly:\
 <img src="https://github.com/lschenc41/IntermediateCAD/blob/master/Media/Telescope1.PNG" alt="Telescope1" width="350" height="250"> <img src="https://github.com/lschenc41/IntermediateCAD/blob/master/Media/Telescope2.PNG" alt="Telescope2" width="350" height="250">
 ### Obstacles
+I was relatively familiar with mates after making a Useless Box last year, so I was confident that I could mate all of the parts without much help. Because of this, I skimmed through the instructions and missed the part where it says to use a tangent mate to connect the pin with the end of the medium configuration. I had never used a tangent mate before, so I tried using a standard mate and quickly figured out that it wasn't working. I tried deleting the mate and trying it again, convinced that I just clicked the wrong face somewhere, but I still couldn't get it to work. After a couple minutes I finally decided it would be a good idea to read through the instructions again more thoroughly, and got it to work after using a tangent mate.
